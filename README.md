@@ -9,5 +9,5 @@ Contains C++ implementations for the following sorting algorithms:
 - [ ] Heap Sort
 - [ ] Radix Sort
 - [ ] Shell Sort
-- [] Counting Sort
-- [] Sleep Sort 
+- [ ] Counting Sort
+- [ ] Sleep Sort 
