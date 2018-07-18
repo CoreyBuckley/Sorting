@@ -1,4 +1,4 @@
-##Sorting
+## Sorting
 
 Contains C++ implementations for the following sorting algorithms:
 
