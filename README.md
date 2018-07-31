@@ -6,8 +6,9 @@ Contains C++ implementations for the following sorting algorithms:
 - [x] Selection Sort
 - [x] Merge Sort
 - [x] Quick Sort
-- [ ] Heap Sort
+- [X] Heap Sort
 - [ ] Radix Sort
 - [ ] Shell Sort
 - [ ] Counting Sort
 - [ ] Sleep Sort 
+- [X] Gravity Sort
